@@ -1,0 +1,42 @@
+[
+    {
+        "id": "ngo-001",
+        "name": "HeartCare Foundation",
+        "category": "Cardiology",
+        "funding_limit": 500000,
+        "eligibility": "Income < 3LPA",
+        "location": "National"
+    },
+    {
+        "id": "ngo-002",
+        "name": "Cancer Relief Trust",
+        "category": "Oncology",
+        "funding_limit": 1000000,
+        "eligibility": "Income < 5LPA",
+        "location": "National"
+    },
+    {
+        "id": "ngo-003",
+        "name": "Childhood Smiles",
+        "category": "Pediatrics",
+        "funding_limit": 200000,
+        "eligibility": "Children under 12",
+        "location": "Regional"
+    },
+    {
+        "id": "ngo-004",
+        "name": "SightForAll",
+        "category": "Ophthalmology",
+        "funding_limit": 50000,
+        "eligibility": "Senior Citizens",
+        "location": "National"
+    },
+    {
+        "id": "ngo-005",
+        "name": "Jeevan Rakshak",
+        "category": "Emergency",
+        "funding_limit": 100000,
+        "eligibility": "Accident Victims",
+        "location": "Regional"
+    }
+]
